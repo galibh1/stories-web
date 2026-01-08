@@ -1,0 +1,378 @@
+{
+  "brand": {
+    "name": "stories",
+    "logo": "/assets/imgs/theme/logo.png"
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Travel",
+      "href": "/category/grid"
+    },
+    {
+      "label": "Guides",
+      "href": "/category/list"
+    },
+    {
+      "label": "Food",
+      "href": "/category/grid"
+    },
+    {
+      "label": "Hotels",
+      "href": "/category/list"
+    },
+    {
+      "label": "Review",
+      "href": "/category/big"
+    },
+    {
+      "label": "Lifestyle",
+      "href": "/category/masonry"
+    }
+  ],
+  "hotTopics": [
+    {
+      "label": "Travel tips",
+      "count": 30
+    },
+    {
+      "label": "Book review",
+      "count": 25
+    },
+    {
+      "label": "Hotel review",
+      "count": 16
+    },
+    {
+      "label": "Destinations",
+      "count": 22
+    },
+    {
+      "label": "Lifestyle",
+      "count": 25
+    }
+  ],
+  "dontMiss": [
+    {
+      "title": "The Life of a Travel Writer with David Farley",
+      "date": "05 August",
+      "views": "300 views",
+      "image": "/assets/imgs/news/thumb-2.jpg",
+      "href": "/post/default"
+    },
+    {
+      "title": "Why Don\u2019t More Black American Women Travel Solo?",
+      "date": "12 August",
+      "views": "23k views",
+      "image": "/assets/imgs/news/thumb-1.jpg",
+      "href": "/post/default"
+    },
+    {
+      "title": "The 22 Best Things to See and Do in Bangkok",
+      "date": "27 August",
+      "views": "23k views",
+      "image": "/assets/imgs/news/thumb-3.jpg",
+      "href": "/post/default"
+    }
+  ],"hero": [
+    {
+      "tags": [
+        "Travel",
+        "Animal"
+      ],
+      "title": "How to Visit Bali's Monkey Forest",
+      "meta": "26 August 2020 \u00b7 18k Views",
+      "image": "/assets/imgs/news/hero1.jpg",
+      "href": "/post/big-image"
+    },
+    {
+      "tags": [
+        "Lifestyle",
+        "Destinations"
+      ],
+      "title": "Abstract Australia from Above",
+      "meta": "15 September 2020 \u00b7 23k Views",
+      "image": "/assets/imgs/news/hero2.jpg",
+      "href": "/post/left-image"
+    },
+    {
+      "tags": [
+        ""
+      ],
+      "title": "",
+      "meta": "",
+      "image": "/assets/imgs/news/hero3.jpg",
+      "href": "/post/default"
+    },
+    {
+      "tags": [
+        "Hotel",
+        "Healthy"
+      ],
+      "title": "Staying at the Hilton Seychelles Northolme Resort & Spa",
+      "meta": "22 September 2020 \u00b7 16k Views",
+      "image": "/assets/imgs/news/hero4.jpg",
+      "href": "/post/with-sidebar"
+    }
+  ],
+  "featured": {
+    "hotTags": [
+      "# Covid-19",
+      "# Inspiration",
+      "# Work online",
+      "# Stay home"
+    ],
+    "big": [
+      {
+        "tags": [
+          "Travel",
+          "Animal"
+        ],
+        "title": "Beachmaster Elephant Seal Fights off Rival Male, The match is uncompromising",
+        "meta": "20 minutes ago \u00b7 23k Views",
+        "image": "/assets/imgs/news/thumb-1.jpg",
+        "href": "/post/default"
+      },
+      {
+        "tags": [
+          "Lifestyle"
+        ],
+        "title": "This genius photo experiment shows we are all just sheeple in the consumer matrix",
+        "meta": "26 August 2020 \u00b7 18k Views",
+        "image": "/assets/imgs/news/thumb-5.jpg",
+        "href": "/post/default"
+      }
+    ],
+    "list": [
+      {
+        "tags": [
+          "Travel",
+          "Food"
+        ],
+        "title": "Want fluffy Japanese pancakes but can\u2019t fly to Tokyo?",
+        "meta": "27 August \u00b7 12 mins read \u00b7 23k views",
+        "image": "/assets/imgs/news/thumb-3.jpg",
+        "href": "/post/default"
+      },
+      {
+        "tags": [
+          "Fashion"
+        ],
+        "title": "Put Yourself in Your Customers Shoes",
+        "meta": "17 July \u00b7 8 mins read \u00b7 12k views",
+        "image": "/assets/imgs/news/thumb-4.jpg",
+        "href": "/post/default"
+      },
+      {
+        "tags": [
+          "Travel"
+        ],
+        "title": "Life and Death in the Empire of the Tiger",
+        "meta": "7 August \u00b7 15 mins read \u00b7 500 views",
+        "image": "/assets/imgs/news/thumb-2.jpg",
+        "href": "/post/default"
+      },
+      {
+        "tags": [
+          "Lifestyle"
+        ],
+        "title": "When Two Wheels Are Better Than Four",
+        "meta": "15 Jun \u00b7 9 mins read \u00b7 1.2k views",
+        "image": "/assets/imgs/news/thumb-6.jpg",
+        "href": "/post/default"
+      }
+    ]
+  },
+  "travelTips": [
+    {
+      "tags": [
+        "Artists",
+        "Film"
+      ],
+      "title": "Easy Ways to Use Alternatives to Plastic",
+      "excerpt": "Graduating from a top accelerator or incubator can be as career-defining for a startup founder as an elite university diploma...",
+      "meta": "27 August \u00b7 12 mins read \u00b7 23k views",
+      "image": "/assets/imgs/news/thumb-2.jpg",
+      "href": "/post/default"
+    },
+    {
+      "tags": [
+        "Fashion"
+      ],
+      "title": "Tips for Growing Healthy, Longer Hair",
+      "excerpt": "Proin vitae placerat quam. Ut sodales eleifend urna, in condimentum tortor ultricies eu. Nunc auctor iaculis dolor...",
+      "meta": "12 August \u00b7 6 mins read \u00b7 3k views",
+      "image": "/assets/imgs/news/thumb-5.jpg",
+      "href": "/post/default"
+    },
+    {
+      "tags": [
+        "Lifestyle"
+      ],
+      "title": "Project Ideas Around the House",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor condimentum metus non tempor...",
+      "meta": "27 August \u00b7 12 mins read \u00b7 23k views",
+      "image": "/assets/imgs/news/thumb-4.jpg",
+      "href": "/post/default"
+    },
+    {
+      "tags": [
+        "Hotels"
+      ],
+      "title": "How to Give Yourself a Spa Day from Home",
+      "excerpt": "The intensive programmes, which are designed to help founders...",
+      "meta": "18 August \u00b7 14 mins read \u00b7 25k views",
+      "image": "/assets/imgs/news/thumb-11.jpg",
+      "href": "/post/default"
+    }
+  ],
+  "latest": [
+    {
+      "tags": [
+        "Food"
+      ],
+      "title": "Helpful Tips for Working from Home as a Freelancer",
+      "meta": "7 August \u00b7 11 mins read \u00b7 3k views",
+      "image": "/assets/imgs/news/thumb-3.jpg",
+      "href": "/post/default"
+    },
+    {
+      "tags": [
+        "Cooking"
+      ],
+      "title": "10 Easy Ways to Be Environmentally Conscious At Home",
+      "meta": "27 Sep \u00b7 10 mins read \u00b7 22k views",
+      "image": "/assets/imgs/news/thumb-4.jpg",
+      "href": "/post/default"
+    },
+    {
+      "tags": [
+        "Cooking"
+      ],
+      "title": "My Favorite Comfies to Lounge in At Home",
+      "meta": "7 August \u00b7 9 mins read \u00b7 12k views",
+      "image": "/assets/imgs/news/thumb-6.jpg",
+      "href": "/post/default"
+    },
+    {
+      "tags": [
+        "Travel"
+      ],
+      "title": "How to Give Your Space a Parisian-Inspired Makeover",
+      "meta": "27 August \u00b7 12 mins read \u00b7 23k views",
+      "image": "/assets/imgs/news/thumb-2.jpg",
+      "href": "/post/default"
+    }
+  ],
+  "sidebar": {
+    "about": {
+      "name": "Hello, I'm Steven",
+      "bio": "Hi, I\u2019m Stenven, a Florida native, who left my career in corporate wealth management six years ago to embark on a summer of soul searching that would change the course of my life forever.",
+      "image": "/assets/imgs/authors/author.jpg"
+    },
+    "popular": [
+      {
+        "title": "Spending Some Quality Time with Kids? It\u2019s Possible",
+        "date": "05 August",
+        "views": "150 views"
+      },
+      {
+        "title": "Relationship Podcasts are Having \u201cThat\u201d Talk",
+        "date": "12 August",
+        "views": "6k views"
+      },
+      {
+        "title": "Here\u2019s How to Get the Best Sleep at Night",
+        "date": "15 August",
+        "views": "16k views"
+      },
+      {
+        "title": "America\u2019s Governors Get Tested for a Virus That Is Testing Them",
+        "date": "12 August",
+        "views": "3k views"
+      }
+    ],
+    "comments": [
+      {
+        "name": "David",
+        "date": "16 Jan 2020",
+        "text": "A writer is someone for whom writing is more difficult than...",
+        "avatar": "/assets/imgs/authors/author-2.jpg"
+      },
+      {
+        "name": "Kokawa",
+        "date": "12 Feb 2020",
+        "text": "Striking pewter studded epaulettes silver zips",
+        "avatar": "/assets/imgs/authors/author-3.jpg"
+      },
+      {
+        "name": "Tsukasi",
+        "date": "18 May 2020",
+        "text": "Workwear bow detailing a slingback buckle strap",
+        "avatar": "/assets/imgs/authors/author-4.jpg"
+      }
+    ],
+    "instagram": [
+      "/assets/imgs/news/thumb-1.jpg",
+      "/assets/imgs/news/thumb-2.jpg",
+      "/assets/imgs/news/thumb-3.jpg",
+      "/assets/imgs/news/thumb-4.jpg",
+      "/assets/imgs/news/thumb-5.jpg",
+      "/assets/imgs/news/thumb-6.jpg"
+    ],
+    "destinations": [
+      {
+        "title": "The Best Time to Travel to Cambodia",
+        "date": "27 Jan",
+        "views": "13k views"
+      },
+      {
+        "title": "20 Photos to Inspire You to Visit Cambodia",
+        "date": "27 August",
+        "views": "14k views"
+      },
+      {
+        "title": "Epic Arts Cambodia: Charity for the Disabled",
+        "date": "29 August",
+        "views": "23k views"
+      }
+    ],
+    "lifestyle": [
+      {
+        "title": "10 Ways to De-Stress Your Day Hour by Hour",
+        "date": "12 August",
+        "views": "3k views"
+      },
+      {
+        "title": "134 Free Weekly Meal Planner Printable",
+        "date": "15 August",
+        "views": "4.1k views"
+      },
+      {
+        "title": "Free Printable Stickers for Your Bullet Journal",
+        "date": "16 August",
+        "views": "2.2k views"
+      }
+    ],
+    "photography": [
+      {
+        "title": "Which TBA Preset Pack is Right For You?",
+        "date": "06 May",
+        "views": "23k views"
+      },
+      {
+        "title": "How to Get Amazing Photos at the Pyramids of Giza",
+        "date": "05 Jun",
+        "views": "5k views"
+      },
+      {
+        "title": "Beginner\u2019s Guide to Travel Drone Photography",
+        "date": "08 August",
+        "views": "2k views"
+      }
+    ]
+  }
+}
